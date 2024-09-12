@@ -1,2 +1,1 @@
-# Project
-python basic programs
+basic python programs
